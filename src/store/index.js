@@ -11,11 +11,11 @@ export default new Vuex.Store({
             floatLayout: true,
             enableDownload: true,
             previewModal: true,
-            paginateElementsByHeight: 1100,
+            paginateElementsByHeight: 1300,
             manualPagination: false,
             filename: 'Hee Hee',
             pdfQuality: 2,
-            pdfFormat: 'a4',
+            pdfFormat: 'letter',
             pdfOrientation: 'portrait',
             pdfContentWidth: '800px'
         }
